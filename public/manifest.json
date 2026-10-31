@@ -1,0 +1,23 @@
+{
+  "name": "M.A.P.A FabrineF.",
+  "short_name": "M.A.P.A FabrineF.",
+  "description": "Formulário de inclusão e perfil do aluno para turismo pedagógico.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F9F5",
+  "theme_color": "#56C45F",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/tTJkBTHZ/mapa-kids.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/tTJkBTHZ/mapa-kids.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+// Arquivo removido. O sistema agora utiliza geração direta de texto para o WhatsApp para garantir velocidade instantânea e custo zero.

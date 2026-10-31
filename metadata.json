@@ -1,0 +1,7 @@
+{
+  "name": "FICHA ATIPICOS - FABRINE FERNANDES",
+  "description": "Formulário de inclusão e perfil do aluno para turismo pedagógico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
